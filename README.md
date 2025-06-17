@@ -1,4 +1,4 @@
-This repositroy complements my MSc Placement Dissertation completed at Scottish Enterprise, from June - August 2025.
+This repositroy complements my MSc Placement Dissertation.
 
 The repository is made up of two sets of indicators, measuring Data Value and Data Debt.
 
