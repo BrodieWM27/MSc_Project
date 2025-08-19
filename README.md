@@ -1,7 +1,3 @@
-This repositroy complements my MSc Placement Dissertation.
-
-The repository is made up of two sets of indicators, measuring Data Value and Data Debt.
-
 Data Value indicators:
 1. Fitness-for-Use (SQL)
 2. Timeliness Ratio (R)
